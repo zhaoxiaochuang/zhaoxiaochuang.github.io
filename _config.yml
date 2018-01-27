@@ -1,8 +1,8 @@
 # Site settings
-title:赵小闯
+title:  赵小闯
 SEOTitle: 赵小闯 | Zhaoxiaochuang Blog
 header-img: img/home-bg.jpg
-email:1289248151@qq.com
+email: 1289248151
 description: "这是赵小闯的博客"
 keyword: ""
 #url: "https://zhaoxiaochuang.github"              # your host, for absolute URL
@@ -49,7 +49,7 @@ input: GFM                            # use Github Flavored Markdown !important
 
 
 # Disqus settings
-# disqus_username: zhaoxiaochuang
+# disqus_username: zhaoxiaochuang.github.io
 
 
 
